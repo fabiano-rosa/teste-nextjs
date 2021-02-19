@@ -4,7 +4,7 @@ function Home() {
     
     return (
         <>
-            <h1>Teste NextJS</h1>
+            <h1 style={{color: 'red'}}>Teste NextJS</h1>
             <Contador />
         </>
     );
